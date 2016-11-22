@@ -1,5 +1,5 @@
 <?php
-namespace bastarann\widget\twbsmaxlength;
+namespace raoul2000\widget\twbsmaxlength;
 
 use yii\web\AssetBundle;
 
