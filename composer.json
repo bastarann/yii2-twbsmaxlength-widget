@@ -1,5 +1,5 @@
 {
-    "name": "bastarann/yii2-twbsmaxlength-widget",
+    "name": "raoul2000/yii2-twbsmaxlength-widget",
     "description": "The TwbsMaxlength widget is a wrapper for the Bootstrap Maxlength plugin, a visual feedback indicator for the maxlength attribute.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","widget","bootstrap","length","validation"],
