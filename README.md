@@ -1,3 +1,5 @@
+I was forced to make a change in the original file TwbsMaxlengthAsset.php Now sourcePath looks like public $sourcePath = '@bower/bootstrap-maxlength/src';
+
 yii2-twbsmaxlength-widget
 ==========================
 The **TwbsMaxlength** widget is a wrapper for the great [Bootstrap Maxlength plugin](http://mimo84.github.io/bootstrap-maxlength/), 
