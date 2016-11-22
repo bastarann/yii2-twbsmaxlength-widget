@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bastarann\\widget\\twbsmaxlength\\": ""
+            "raoul2000\\widget\\twbsmaxlength\\": ""
         }
     }
 }
