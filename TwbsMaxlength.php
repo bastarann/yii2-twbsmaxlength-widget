@@ -1,5 +1,5 @@
 <?php
-namespace raoul\widget\twbsmaxlength;
+namespace bastarann\widget\twbsmaxlength;
 
 use Yii;
 use yii\base\Widget;
